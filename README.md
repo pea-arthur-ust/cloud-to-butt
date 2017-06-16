@@ -1,3 +1,19 @@
+This is a Work in Progress to create a chrome extension to make GUIDs clickable buttons which copy to the clipboard.
+
+Clicking the front half of the button gives you the clip board copied guid, clicking the back half gives you and excel formatted box.
+
+Copy to Clipboard in Chrome Extension
+
+https://stackoverflow.com/questions/3436102/copy-to-clipboard-in-chrome-extension
+
+
+Using cloud-to-butt as inspiration, it should be possible to make chrome perform a regular expression search on pages... then create a button out of them which upon clicking copy the GUID to the clipboard. This should save 3 clicks and a lot of frustration. An option to append "GUID=" to the beginning of string may also be possible.
+
+Integration with xml authoring tools to automatically perform a search would be neat, but would require more understanding of how xMetal works - even better would be just to open the GUID directly
+
+
+
+
 cloud-to-butt
 =============
 
